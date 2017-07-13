@@ -302,3 +302,11 @@
   name: paymark_online_eftpos
   label: Paymark Online Eftpos
   group: bank_transfers
+-
+  name: credomatic_mini_cuotas
+  label: Credomatic - Mini Cuotas
+  group: other
+-
+  name: credomatic_tasa_0
+  label: Credomatic - Tasa 0
+  group: other
